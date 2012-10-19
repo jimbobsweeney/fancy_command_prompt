@@ -4,9 +4,7 @@ Is there something missing in your life? Some deep-seated inner tension that you
 
 ### You need a FANCY COMMAND PROMPT.
 
-This one displays the path in green, then the Git branch in blue, if you're in a directory for which you have a repository on the go. It even displays an asterisk to indicate when there's stuff waiting to be committed!
-
-Look! It's beautiful!
+This one displays the path in green, then the Git branch in blue, if you're in a directory for which you have a repository on the go. It even displays an asterisk to indicate when there's stuff waiting to be committed! Look! It's beautiful!
 
 ![ScreenShot](https://raw.github.com/jimbobsweeney/fancy_command_prompt/master/screenshot.png)
 
