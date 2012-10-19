@@ -6,7 +6,7 @@ Is there something missing in your life? Some deep-seated inner tension that you
 
 This one displays the path in green, then the git branch in blue, if you're in a directory for which you have a repository on the go. It even displays an asterisk to indicate that there's stuff waiting to be committed!
 
-![Like this!](https://github.com/jimbobsweeney/fancy_command_prompt/blob/master/screenshot.png)
+![Like this!](https://raw.github.com/jimbobsweeney/fancy-command-prompt/master/screenshot.png)
 
 Take what's in the .bash_profile here and paste it into the .bash_profile in the root directory of your UNIX computer box. Then go `source ~/.bash_profile` to reload the profile.
 
