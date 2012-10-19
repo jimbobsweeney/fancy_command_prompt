@@ -10,6 +10,8 @@ This one displays the path in green, then the git branch in blue, if you're in a
 
 ![ScreenShot](https://github.com/jimbobsweeney/fancy_command_prompt/blob/master/screenshot.png)
 
+![ScreenShot](https://raw.github.com/jimbobsweeney/fancy_command_prompt/master/screenshot.png)
+
 Take what's in the .bash_profile here and paste it into the .bash_profile in the root directory of your UNIX computer box. Then go `source ~/.bash_profile` to reload the profile.
 
 **Note: you have to make a commit before it'll appear in the command prompt.**
