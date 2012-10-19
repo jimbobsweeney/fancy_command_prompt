@@ -1,10 +1,10 @@
-# Hey, sportsfan!
+### Hey, sportsfan!
 
 Is there something missing in your life? Some deep-seated inner tension that you fear will never be resolved no matter how hard you try? Well, FEAR NOT! I know exactly what you need. I know you better than you know yourself! And I have the very thing to melt away all that unpleasantness that dogs you at every turn 'til you wish it would all just end:
 
 ### You need a FANCY COMMAND PROMPT.
 
-This one displays the path in green, then the git branch in blue, if you're in a directory for which you have a repository on the go. It even displays an asterisk to indicate when there's stuff waiting to be committed!
+This one displays the path in green, then the Git branch in blue, if you're in a directory for which you have a repository on the go. It even displays an asterisk to indicate when there's stuff waiting to be committed!
 
 Look! It's beautiful!
 
